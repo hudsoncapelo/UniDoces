@@ -145,12 +145,15 @@ h6,
     font-family: "Open Sans", sans-serif;
 }
 
+
+/* Interação menu : DESATIVADO 
 .nav-menu a:hover,
 .nav-menu .active>a,
 .nav-menu li:hover>a {
     color: #111111;
     text-decoration: none;
 }
+*/
 
 
 /* cor balão */
